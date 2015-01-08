@@ -6,9 +6,10 @@ What is KanbanBoard ?
 
 ## Usage
 Manage the tasks.
+
 ** Before www starts, 
-# mongodb must be running on server.
-# npm install -g mongoose
+* mongodb must be running on server.
+* npm install -g mongoose
 
 ## Developing
 Node.js
