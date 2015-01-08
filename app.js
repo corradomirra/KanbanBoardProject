@@ -56,5 +56,8 @@ app.use(function(err, req, res, next) {
     });
 });
 
+//create connection pool for mongoDB, just do it once when sever has created.
+require('./db.js').connect();
+
 
 module.exports = app;
