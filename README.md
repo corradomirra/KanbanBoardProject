@@ -1,16 +1,19 @@
 
 
 # KanbanBoardProject
-
-
+What is KanbanBoard ?
+(http://en.wikipedia.org/wiki/Kanban_board)
 
 ## Usage
-
-
+Manage the tasks.
+** Before www starts, 
+# mongodb must be running on server.
+# npm install -g mongoose
 
 ## Developing
-
-
+Node.js
+Express.js
+MongoDB (Using Mongoose.js)
 
 ### Tools
 
